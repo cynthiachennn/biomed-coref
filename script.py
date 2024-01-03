@@ -12,18 +12,19 @@ nlp.add_pipe("coref", source=nlp_coref)
 nlp.add_pipe("span_resolver", source=nlp_coref)
 
 # fileName = "11532192"
+# this line won't work anyomre.. go select filenames from 
 fileList = ['11319941', '11532192', '11597317', '11604102', '11897010']
 
 for fileName in fileList:
-    text = " ".join([l.strip() for l in open(f'{fileName}.txt')]) # open file and format text as one continuous paragraph...
+    text = " ".join([l.strip() for l in open(f'txt/{fileName}.txt')]) # open file and format text as one continuous paragraph...
     doc = nlp(text)
     tokens = [str(token) for token in doc]
 
     pred = compare.pred_corefs(doc)
-    actual = compare.read_xml(f'{fileName}.xml', doc)
+    actual = compare.read_xml(f'knowtator-2/{fileName}.xml', doc)
 
-    compare.print_sents(doc, pred, f'{fileName}_pred')
-    compare.print_sents(doc, actual, f'{fileName}_actual')
+    compare.print_sents(doc, pred, f'res/{fileName}_pred')
+    compare.print_sents(doc, actual, f'res/{fileName}_actual')
 
 # this prints dict nicely formatted :D
 # print("{" + "\n".join("{!r}: {!r},".format(k, v) for k, v in pred.items()) + "}")
