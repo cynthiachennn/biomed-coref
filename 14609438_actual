@@ -1,0 +1,809 @@
+node_0
+A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+The model presented here : The model presented here indicates a very open and accessible active site that is almost completely conserved among all known CLN2 enzymes.
+This structural model : This structural model should be useful in the search for the physiological substrates of these enzymes and in the design of more specific inhibitors of CLN2.
+The model of CLN2 presented here : The model of CLN2 presented here can easily accommodate this peptide on the P side of the substrate-binding site, although the exact mode of binding of the long P' portion of the substrate remains obscure.
+the model of CLN2 : Analysis of the model of CLN2 suggests that the size of the S1 subsite is much larger than in either sedolisin or kumamolisin, and thus the use of a large P1 group might be indicated.
+the model :  Refinement and analysis of the model  The model was finished by performing energy minimization in vacuo with the computer program CHARMM [31].
+The model :  Refinement and analysis of the model  The model was finished by performing energy minimization in vacuo with the computer program CHARMM [31].
+the model : Since presently the potential energy functions used to describe the atomic-scale models are not sufficiently comprehensive and accurate, the final energy of the model was not used as an indicator of the realistic quality of the structure.
+the model : ML analyzed the model and compared it to the crystal structures of sedolisins.
+it : ML analyzed the model and compared it to the crystal structures of sedolisins.
+node_2
+tripeptidyl-peptidase I : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+tripeptidyl-peptidase I : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+Tripeptidyl-peptidase I : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+CLN2 : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+this enzyme : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+CLN2 : Conclusion  CLN2 is very highly conserved and widely distributed among higher organisms and may play an important role in their life cycles.
+CLN2 : The model presented here indicates a very open and accessible active site that is almost completely conserved among all known CLN2 enzymes.
+CLN2 : This structural model should be useful in the search for the physiological substrates of these enzymes and in the design of more specific inhibitors of CLN2.
+CLN2 : The situation changed after it was shown that TPP-I is identical to an independently characterized enzyme named CLN2.
+CLN2 : It was also demonstrated that mutations leading to abolishment of the enzymatic activity of CLN2 were the direct cause of a fatal inherited neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis [2].
+CLN2 : This important observation was followed by the identification of CLN2 as a serine peptidase [3,4], without, however, specifying its structural fold and the details of the catalytic site.
+its : This important observation was followed by the identification of CLN2 as a serine peptidase [3,4], without, however, specifying its structural fold and the details of the catalytic site.
+CLN2 : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+CLN2 : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+CLN2 : Sedolisin and its several variants (e.g., kumamolisin, aorsin [9], and physarolisin [10]) have now been found in archaea, bacteria, fungi and amoebae, whereas the higher organisms seem to contain only variants of CLN2 [8].
+CLN2 : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+this enzyme : There are also no published reports of the crystallization of this enzyme.
+CLN2 : We have now applied the tools of molecular homology modeling to predicting a structure of CLN2 that could be used as a basis for a search for the biological substrates of this family of enzymes and for the design of specific inhibitors.
+it : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+CLN2 : Figure 3  Sequences of the catalytic domains of CLN2.
+CLN2 :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+CLN2 : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+CLN2 :  Modeling of the structure of human CLN2  The medical importance of CLN2 and the lack of a crystal structure inspired attempts at protein modeling.
+this enzyme : The first such model assumed that this enzyme is membrane-bound, with the sequence 271–294 (numbering corresponding to the mature enzyme, Figure 1) forming the putative transmembrane anchor [15].
+CLN2 : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+CLN2 : It is thus likely that pseudo-iodotyrostatin or a similar inhibitor might work for CLN2 as well, although the actual contacts between the inhibitor and the enzyme that are seen in the model have to be treated with caution.
+the enzyme : It is thus likely that pseudo-iodotyrostatin or a similar inhibitor might work for CLN2 as well, although the actual contacts between the inhibitor and the enzyme that are seen in the model have to be treated with caution.
+CLN2 : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+it : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+CLN2 : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+the real protein : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+CLN2 : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+CLN2 : Thus, if this disulfide were experimentally found to exist in CLN2 it would provide support for the correctness of the model.
+CLN2 : Ribbon diagram of the Cα trace of CLN2, with the segments that were modeled based on the highly conserved core of sedolisin and kumamolisin (r.m.s. deviation of 1 Å) colored in red.
+CLN2 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+CLN2 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+CLN2 : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+CLN2 : However, the residue found here in CLN2 is Cys170, much less polar than its counterparts.
+CLN2 : There is also no equivalent to the polar interaction between Glu175 and Glu171 in sedolisin, since the equivalent of the latter residue in CLN2 is Ser166, much smaller and pointing away.
+CLN2 : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+the latter protein : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+CLN2 : In summary, the S1 pocket in CLN2 has less polar character than the equivalent pocket in the related proteins, and is lacking direct polar anchors for any side chains that might be present in the substrate.
+CLN2 :  The S2 pocket in CLN2 is also quite open and accessible to solvent.
+CLN2 : Tyr130, an equivalent of the latter residue in CLN2, is unlikely to come into direct contact with the P2 residue of the substrate due to its greater distance (almost 4 Å for the closest atoms).  
+CLN2 : An important remaining puzzle is that the predicted structure of CLN2 does not show any clear limitations of the S3 pocket that could explain the tripeptidase activity of this enzyme.
+this enzyme : An important remaining puzzle is that the predicted structure of CLN2 does not show any clear limitations of the S3 pocket that could explain the tripeptidase activity of this enzyme.
+CLN2 : The only negatively charged residue of CLN2 that is found in this vicinity is Asp132.
+the protein : Although in the current model the distance between its carboxylate and the nitrogen of the N-terminus of the modeled substrate is about 6 Å, these two groups could be brought into hydrogen-bonding range by some allowed changes in the torsion angles of the protein.
+CLN2 : Only the role of the latter mutation is completely clear, since it replaces the catalytic serine of CLN2 with a side chain that cannot support its enzymatic activity.
+CLN2 : Residues Val190, Gly194, and Arg252 are very highly conserved not only in CLN2 but also in other sedolisins and must play an important structural role.
+CLN2 : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+its : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+CLN2 : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+CLN2 : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+CLN2 : Various defects that include truncations and single-site mutations in CLN2 have been found in the genes of patients that display symptoms of late-infantile neuronal ceroid lipofuscinosis [17].
+CLN2 : It has been shown recently that CLN2 can indeed degrade this subunit on its N terminus [18], but the unambiguous proof that this is indeed the most important target is still lacking.
+CLN2 : CLN2 is capable of processing a number of different angiotensin-derived peptides [19], with the efficiency of cleavage dependent on the length of such peptides.
+CLN2 : The model of CLN2 presented here can easily accommodate this peptide on the P side of the substrate-binding site, although the exact mode of binding of the long P' portion of the substrate remains obscure.
+CLN2 : The observation that an analogous peptide acetylated on its N terminus cannot be processed supports the postulate that the interactions of the N-terminal amino group with the side chain of Asp132 may be the most important feature defining the tripeptidase specificity of CLN2.
+CLN2 : Other potentially biologically relevant substrates include cholecystokinin and possibly other neuropeptides [21].  An intriguing property of CLN2 is its reported ability to cleave collagen-related peptides [22].
+its : Other potentially biologically relevant substrates include cholecystokinin and possibly other neuropeptides [21].  An intriguing property of CLN2 is its reported ability to cleave collagen-related peptides [22].
+CLN2 : With the substrate-binding site of CLN2 resembling that of kumamolisin more than sedolisin (the latter enzyme has low, if any, collagenase activity), the potential collagen-processing role of CLN2 might warrant further investigation.
+CLN2 : Conclusions  Since the catalytic machinery of CLN2 matches closely that of sedolisin, kumamolisin, and other members of the family of serine-carboxyl peptidases, the enzymatic mechanism of all these enzymes is most likely the same.
+CLN2 : Design of inhibitors specific for CLN2 should incorporate the features that have been proven to be important for the related enzymes, such as the placement of an aldehyde functionality capable of making covalent interactions with the catalytic serine, or the utilization of chloromethyl ketone for the same purpose.
+CLN2 : Analysis of the model of CLN2 suggests that the size of the S1 subsite is much larger than in either sedolisin or kumamolisin, and thus the use of a large P1 group might be indicated.
+CLN2 : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+CLN2 : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+CLN2 : The reason for this choice is that while different protein models were generally comparable, the chosen inhibitor was most compatible with the tripeptidase character of CLN2.
+CLN2 : SRD contributed the modeling of the three-dimensional structure of CLN2.
+node_3
+tripeptidyl-peptidase I : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+tripeptidyl-peptidase I : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+CLN2 : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+node_5
+CLN2 : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+CLN2 : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+node_8
+the sedolisin family of serine-carboxyl peptidases : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+the sedolisin family of serine-carboxyl peptidases : A model of tripeptidyl-peptidase I (CLN2), a ubiquitous and highly conserved member of the sedolisin family of serine-carboxyl peptidases
+the family of sedolisins (serine-carboxyl peptidases) : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+this family of enzymes : We have now applied the tools of molecular homology modeling to predicting a structure of CLN2 that could be used as a basis for a search for the biological substrates of this family of enzymes and for the design of specific inhibitors.
+the sedolisin family of peptidases : The enzyme is shown in complex with pseudo-iodotyrostatin, a good inhibitor of the sedolisin family of peptidases.
+the family of serine-carboxyl peptidases : Conclusions  Since the catalytic machinery of CLN2 matches closely that of sedolisin, kumamolisin, and other members of the family of serine-carboxyl peptidases, the enzymatic mechanism of all these enzymes is most likely the same.
+the newly-defined sedolisin/serine-carboxyl peptidase family [8] for which the crystal structures have been published : Presently, these two enzymes are the only members of the newly-defined sedolisin/serine-carboxyl peptidase family [8] for which the crystal structures have been published [5-7].
+the sedolisin family :  The first step was to form a global, multiple sequence alignment between all known members of the sedolisin family.
+this family of enzymes : Authors' contributions  AW initiated this project and analyzed the genomic distribution of this family of enzymes.
+node_10
+Background : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+Background : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+Background : Background  
+node_15
+sedolisins : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+sedolisins : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+sedolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+sedolisins : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+serine-carboxyl peptidases : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+Sedolisin : Sedolisin and its several variants (e.g., kumamolisin, aorsin [9], and physarolisin [10]) have now been found in archaea, bacteria, fungi and amoebae, whereas the higher organisms seem to contain only variants of CLN2 [8].
+its : Sedolisin and its several variants (e.g., kumamolisin, aorsin [9], and physarolisin [10]) have now been found in archaea, bacteria, fungi and amoebae, whereas the higher organisms seem to contain only variants of CLN2 [8].
+sedolisin : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+sedolisin : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+sedolisin : Alignment of the sequences of sedolisin, kumamolisin, and human CLN2 used in the construction of the model of the latter enzyme.
+sedolisin : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+sedolisin : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+sedolisin : Ribbon diagram of the Cα trace of CLN2, with the segments that were modeled based on the highly conserved core of sedolisin and kumamolisin (r.m.s. deviation of 1 Å) colored in red.
+sedolisin : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+sedolisin : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+sedolisin : Similar views have been previously published for the experimentally-determined structures of sedolisin and kumamolisin [8].
+sedolisin : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+sedolisin : Other polar residues in the vicinity are Glu175 in sedolisin and the corresponding Asp169 in kumamolisin.
+sedolisin : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+the protein : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+sedolisin : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+sedolisin : With the substrate-binding site of CLN2 resembling that of kumamolisin more than sedolisin (the latter enzyme has low, if any, collagenase activity), the potential collagen-processing role of CLN2 might warrant further investigation.
+the latter enzyme : With the substrate-binding site of CLN2 resembling that of kumamolisin more than sedolisin (the latter enzyme has low, if any, collagenase activity), the potential collagen-processing role of CLN2 might warrant further investigation.
+sedolisin : Conclusions  Since the catalytic machinery of CLN2 matches closely that of sedolisin, kumamolisin, and other members of the family of serine-carboxyl peptidases, the enzymatic mechanism of all these enzymes is most likely the same.
+sedolisins : Since the few inhibitors that have been successfully used in the studies of sedolisins are either longer than tripeptides or contain blocking groups on their N termini, new tripeptide-based inhibitors with free N termini are now being synthesized (Oda, unpublished).
+sedolisin : Analysis of the model of CLN2 suggests that the size of the S1 subsite is much larger than in either sedolisin or kumamolisin, and thus the use of a large P1 group might be indicated.
+the sedolisin : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+sedolisin : The actual Protein Data Bank [24]: ) entries used in the modeling were 1GA4.pdb and 1GT9.pdb for sedolisin and kumamolisin, respectively.
+sedolisin : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+sedolisin : As is expected for a family of proteins, highly-conserved segments were found aligned to the crystal structure-identified core regions of the sedolisin and kumamolisin sequences.
+sedolisin : Subsequently, the sequences were divided into two groups: those closer to sedolisin than kumamolisin and vise-a-versa.
+the sedolisin : The alignment of these two groups was then manually set by the observed structural alignment of the sedolisin and kumamolisin proteins.
+sedolisin : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+sedolisins : ML analyzed the model and compared it to the crystal structures of sedolisins.
+serine-carboxyl peptidases : HO, KO and BMD contributed their experience gained from studies of serine-carboxyl peptidases and the design of their inhibitors, aimed at analysis of substrate-enzyme interactions and enzyme specificity.
+their : HO, KO and BMD contributed their experience gained from studies of serine-carboxyl peptidases and the design of their inhibitors, aimed at analysis of substrate-enzyme interactions and enzyme specificity.
+node_16
+sedolisins : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+sedolisins : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+serine-carboxyl peptidases : Abstract  Background  Tripeptidyl-peptidase I, also known as CLN2, is a member of the family of sedolisins (serine-carboxyl peptidases).
+node_19
+humans : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+humans : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+human : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+human : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+humans : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+node_23
+classical late-infantile neuronal ceroid lipofuscinosis : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+classical late-infantile neuronal ceroid lipofuscinosis : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+classical late-infantile neuronal ceroid lipofuscinosis : It was also demonstrated that mutations leading to abolishment of the enzymatic activity of CLN2 were the direct cause of a fatal inherited neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis [2].
+late-infantile neuronal ceroid lipofuscinosis : Side chains of the residues that were found to be mutated in the genes of families of patients with late-infantile neuronal ceroid lipofuscinosis [17] are marked in ball-and-stick.
+classic late-infantile neuronal ceroid lipofuscinosis :  Location of mutations implicated in disease  Location of mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients has been described previously [17].
+the disease : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+late-infantile neuronal ceroid lipofuscinosis : Various defects that include truncations and single-site mutations in CLN2 have been found in the genes of patients that display symptoms of late-infantile neuronal ceroid lipofuscinosis [17].
+the disease : One of the symptoms of the disease is the accumulation of an autofluorescent material, ceroid-lipofuscin, in lysosomal storage bodies in various cell types, primarily in the nervous system.
+node_24
+classical late-infantile neuronal ceroid lipofuscinosis : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+classical late-infantile neuronal ceroid lipofuscinosis : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+a fatal neurodegenerative disease : In humans, defects in expression of this enzyme lead to a fatal neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis.
+node_26
+Similar enzymes : Similar enzymes have been found in the genomic sequences of several species, but neither systematic analyses of their distribution nor modeling of their structures have been previously attempted.
+Similar enzymes : Similar enzymes have been found in the genomic sequences of several species, but neither systematic analyses of their distribution nor modeling of their structures have been previously attempted.
+their : Similar enzymes have been found in the genomic sequences of several species, but neither systematic analyses of their distribution nor modeling of their structures have been previously attempted.
+their : Similar enzymes have been found in the genomic sequences of several species, but neither systematic analyses of their distribution nor modeling of their structures have been previously attempted.
+node_30
+Results : Results  
+Results : Results  
+Results : Results and discussion  Sequence comparisons of the CLN2-like enzymes  
+node_32
+We : We have analyzed the presence of orthologs of human CLN2 in the genomic sequences of a number of eukaryotic species.
+We : We have analyzed the presence of orthologs of human CLN2 in the genomic sequences of a number of eukaryotic species.
+We : We have now applied the tools of molecular homology modeling to predicting a structure of CLN2 that could be used as a basis for a search for the biological substrates of this family of enzymes and for the design of specific inhibitors.
+we : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+we : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+node_34
+human CLN2 : We have analyzed the presence of orthologs of human CLN2 in the genomic sequences of a number of eukaryotic species.
+human CLN2 : We have analyzed the presence of orthologs of human CLN2 in the genomic sequences of a number of eukaryotic species.
+human CLN2 : A three-dimensional model of human CLN2 was built based mainly on the homology with Pseudomonas sp. 101 sedolisin.
+human CLN2 : Mammalian enzymes homologous to human CLN2 [2,4] form a subfamily of sedolisins with highly conserved sequences (Figure 1).
+the human : A pairwise comparison of the human and mouse enzymes yields 88% identity and 94% similarity, considerably higher than the median 78.5% identity reported for all identified mouse-human orthologs [13].
+CLN2 from human : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+human CLN2 : However, the sequenced part of the enzyme shows 75% identity with the fugu sedolisin-TPP, and 69% identity with human CLN2 (Figure 3).
+human CLN2 :  Modeling of the structure of human CLN2  The medical importance of CLN2 and the lack of a crystal structure inspired attempts at protein modeling.
+human CLN2 : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+human CLN2 : Although it has not been directly shown that this compound can inhibit human CLN2, other similar peptides with an aldehyde functionality on their "C-termini" are weak, but detectable, inhibitors of this enzyme (Oda, unpublished).
+this enzyme : Although it has not been directly shown that this compound can inhibit human CLN2, other similar peptides with an aldehyde functionality on their "C-termini" are weak, but detectable, inhibitors of this enzyme (Oda, unpublished).
+human CLN2 : Alignment of the sequences of sedolisin, kumamolisin, and human CLN2 used in the construction of the model of the latter enzyme.
+the latter enzyme : Alignment of the sequences of sedolisin, kumamolisin, and human CLN2 used in the construction of the model of the latter enzyme.
+human CLN2 : Figure 5  A homology-derived model of human CLN2.
+human CLN2 : Figure 6  A model of the active site of human CLN2.
+The enzyme : The enzyme is shown in complex with pseudo-iodotyrostatin, a good inhibitor of the sedolisin family of peptidases.
+the enzyme : Only selected residues of the enzyme are explicitly shown on the background consisting of the molecular surface.
+human CLN2 : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+human CLN2 : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+the protein : For the core and active site of the protein, coordinates for identical residues were simply transferred unchanged; whereas, special care was required to position the side chains of residues differing from the template.
+the protein : A similar two-step approach was used to manifest the insertions and deletions in the variable, loop regions of the protein, where it was necessary to create new backbone as well as side chain coordinates for the models.
+node_36
+macaque : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+macaque : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+macaque : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+node_38
+mouse : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+mouse : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+mouse : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+mouse : The full-length enzymes consist of 563 amino acids arranged in a single polypeptide chain containing both the prosegment and the catalytic domain, with the exception of mouse CLN2 that has a single deletion in the prosegment.
+mouse : A pairwise comparison of the human and mouse enzymes yields 88% identity and 94% similarity, considerably higher than the median 78.5% identity reported for all identified mouse-human orthologs [13].
+mice : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+node_40
+rat : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+rat : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+rat : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+node_42
+dog : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+dog : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+dog : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+node_44
+cow : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+cow : Enzymes with sequences sharing over 80% identity have been found in the genomes of macaque, mouse, rat, dog, and cow.
+cow : Complete sequences are available for CLN2 from six species in which it has been found so far (human, macaque, dog, mouse, rat, and cow).
+node_46
+fish : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+fish : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+fish :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+node_48
+fugu : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+fugu : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+fugu : In addition to the mammals, CLN2-like enzymes are also found in fugu (puffer fish – unannotated record SINFRUP00000077297 in the NCBI fugu sequence database, ) and zebrafish (contig wz4596.2 in the zebrafish EST database, ).
+fugu : In addition to the mammals, CLN2-like enzymes are also found in fugu (puffer fish – unannotated record SINFRUP00000077297 in the NCBI fugu sequence database, ) and zebrafish (contig wz4596.2 in the zebrafish EST database, ).
+fugu : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+fugu : putative sequence shows the manual corrections that bring it into alignment with the sequence of the fugu enzyme.
+fugu : The available amino acid sequence of the fugu CLN2 analog, named by us sedolisin-TPP [8], is also in good agreement with the sequences of the mammalian orthologs (Figure 3).
+fugu : It is very likely that this represents a fault in the assembled sequence rather than a real variation, since the current coding frame is not initiated with a methionine, and a few extra residues are present in the full genomic sequence available from the fugu sequencing consortium .
+fugu : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+fugu : However, the sequenced part of the enzyme shows 75% identity with the fugu sedolisin-TPP, and 69% identity with human CLN2 (Figure 3).
+node_50
+zebra : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+zebra : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+zebrafish : In addition to the mammals, CLN2-like enzymes are also found in fugu (puffer fish – unannotated record SINFRUP00000077297 in the NCBI fugu sequence database, ) and zebrafish (contig wz4596.2 in the zebrafish EST database, ).
+zebrafish : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+zebrafish : Figure 2  Corrected gene sequence of the zebrafish CLN2.This
+zebrafish : The only major difference in the translated amino acid sequence compared to the mammalian and zebrafish enzymes is in the amino terminus of the propeptide region that is shorter by 30 amino acids (not shown).
+zebrafish : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+node_53
+Xenopus tropicalis : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+Xenopus tropicalis : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+Xenopus tropicalis : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+Xenopus tropicalis :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+its : A partial sequence of its sedolisin-TPP (AL594774) found in the EST database  spans the middle part of the catalytic domain, without reaching the part of the active site closer to the N terminus that contains the aspartic and glutamic acids that belong to the catalytic triad.
+node_54
+Xenopus tropicalis : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+Xenopus tropicalis : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+frogs : Closely related, although clearly distinct, enzymes are present in fish (fugu and zebra), as well as in frogs (Xenopus tropicalis).
+node_57
+Conclusion : Conclusion  CLN2 is very highly conserved and widely distributed among higher organisms and may play an important role in their life cycles.
+Conclusion : Conclusion  CLN2 is very highly conserved and widely distributed among higher organisms and may play an important role in their life cycles.
+Conclusions : Conclusions  Since the catalytic machinery of CLN2 matches closely that of sedolisin, kumamolisin, and other members of the family of serine-carboxyl peptidases, the enzymatic mechanism of all these enzymes is most likely the same.
+node_60
+higher organisms : Conclusion  CLN2 is very highly conserved and widely distributed among higher organisms and may play an important role in their life cycles.
+higher organisms : Conclusion  CLN2 is very highly conserved and widely distributed among higher organisms and may play an important role in their life cycles.
+their : Conclusion  CLN2 is very highly conserved and widely distributed among higher organisms and may play an important role in their life cycles.
+the higher organisms : Sedolisin and its several variants (e.g., kumamolisin, aorsin [9], and physarolisin [10]) have now been found in archaea, bacteria, fungi and amoebae, whereas the higher organisms seem to contain only variants of CLN2 [8].
+node_64
+all known CLN2 enzymes : The model presented here indicates a very open and accessible active site that is almost completely conserved among all known CLN2 enzymes.
+all known CLN2 enzymes : The model presented here indicates a very open and accessible active site that is almost completely conserved among all known CLN2 enzymes.
+these enzymes : This structural model should be useful in the search for the physiological substrates of these enzymes and in the design of more specific inhibitors of CLN2.
+node_71
+tripeptidyl-peptidase I : Although the existence of tripeptidyl-peptidase I (TPP-I) was first noted over 40 years ago [1], the structural and mechanistic basis of its activity has been largely misunderstood until quite recently.
+tripeptidyl-peptidase I : Although the existence of tripeptidyl-peptidase I (TPP-I) was first noted over 40 years ago [1], the structural and mechanistic basis of its activity has been largely misunderstood until quite recently.
+its : Although the existence of tripeptidyl-peptidase I (TPP-I) was first noted over 40 years ago [1], the structural and mechanistic basis of its activity has been largely misunderstood until quite recently.
+TPP-I : The situation changed after it was shown that TPP-I is identical to an independently characterized enzyme named CLN2.
+node_72
+tripeptidyl-peptidase I : Although the existence of tripeptidyl-peptidase I (TPP-I) was first noted over 40 years ago [1], the structural and mechanistic basis of its activity has been largely misunderstood until quite recently.
+tripeptidyl-peptidase I : Although the existence of tripeptidyl-peptidase I (TPP-I) was first noted over 40 years ago [1], the structural and mechanistic basis of its activity has been largely misunderstood until quite recently.
+TPP-I : Although the existence of tripeptidyl-peptidase I (TPP-I) was first noted over 40 years ago [1], the structural and mechanistic basis of its activity has been largely misunderstood until quite recently.
+node_82
+classical late-infantile neuronal ceroid lipofuscinosis : It was also demonstrated that mutations leading to abolishment of the enzymatic activity of CLN2 were the direct cause of a fatal inherited neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis [2].
+classical late-infantile neuronal ceroid lipofuscinosis : It was also demonstrated that mutations leading to abolishment of the enzymatic activity of CLN2 were the direct cause of a fatal inherited neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis [2].
+a fatal inherited neurodegenerative disease : It was also demonstrated that mutations leading to abolishment of the enzymatic activity of CLN2 were the direct cause of a fatal inherited neurodegenerative disease, classical late-infantile neuronal ceroid lipofuscinosis [2].
+node_87
+related enzymes : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+related enzymes : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+related enzymes : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+the related enzymes : Design of inhibitors specific for CLN2 should incorporate the features that have been proven to be important for the related enzymes, such as the placement of an aldehyde functionality capable of making covalent interactions with the catalytic serine, or the utilization of chloromethyl ketone for the same purpose.
+node_89
+high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+These structures : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+node_91
+sequence : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+sequence : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+Sequence : Results and discussion  Sequence comparisons of the CLN2-like enzymes  
+sequence : The overall sequence identity for these enzymes is 81%, whereas the similarity is 92%.
+Sequence : Figure 1  Sequence comparisons of mammalian CLN2-like enzymes.
+Sequence : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+sequence : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+Sequence : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+sequence : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+sequence : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+sequence :  The first step was to form a global, multiple sequence alignment between all known members of the sedolisin family.
+sequence : Studies have shown that incorporating the specific patterns of amino acid residue-type variation and conservation among a family of homologous proteins provides superior results over simple, pair-wise sequence alignment [25].
+Sequence : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+sequence : Initial multiple sequence alignments were formed with the ClustalX computer program [28].
+node_95
+sedolisin and kumamolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+sedolisin and kumamolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+the latter two enzymes : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+sedolisin and kumamolisin : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+sedolisin and kumamolisin : Ribbon diagram of the Cα trace of CLN2, with the segments that were modeled based on the highly conserved core of sedolisin and kumamolisin (r.m.s. deviation of 1 Å) colored in red.
+sedolisin and kumamolisin : Similar views have been previously published for the experimentally-determined structures of sedolisin and kumamolisin [8].
+the sedolisin and kumamolisin proteins : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+the enzymes : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+these two enzymes : Presently, these two enzymes are the only members of the newly-defined sedolisin/serine-carboxyl peptidase family [8] for which the crystal structures have been published [5-7].
+node_97
+kumamolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+kumamolisin : More accurate placement of CLN2 within the context of a family of related enzymes became possible only after high-resolution crystal structures of two bacterial enzymes with a limited sequence similarity to CLN2, sedolisin and kumamolisin, became available [5-7].
+kumamolisin : Sedolisin and its several variants (e.g., kumamolisin, aorsin [9], and physarolisin [10]) have now been found in archaea, bacteria, fungi and amoebae, whereas the higher organisms seem to contain only variants of CLN2 [8].
+kumamolisin : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+kumamolisin : Alignment of the sequences of sedolisin, kumamolisin, and human CLN2 used in the construction of the model of the latter enzyme.
+kumamolisin : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+kumamolisin : Ribbon diagram of the Cα trace of CLN2, with the segments that were modeled based on the highly conserved core of sedolisin and kumamolisin (r.m.s. deviation of 1 Å) colored in red.
+kumamolisin : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+kumamolisin : Similar views have been previously published for the experimentally-determined structures of sedolisin and kumamolisin [8].
+kumamolisin : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+kumamolisin : Other polar residues in the vicinity are Glu175 in sedolisin and the corresponding Asp169 in kumamolisin.
+kumamolisin : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+kumamolisin : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+kumamolisin : It has been recently reported that kumamolisin, and particularly a closely related protein from Alicyclobacillus sendaiensis (kumamolisin-As) can efficiently cleave not only collagen-related peptides, but also native type I collagen [23].
+kumamolisin : With the substrate-binding site of CLN2 resembling that of kumamolisin more than sedolisin (the latter enzyme has low, if any, collagenase activity), the potential collagen-processing role of CLN2 might warrant further investigation.
+kumamolisin : Conclusions  Since the catalytic machinery of CLN2 matches closely that of sedolisin, kumamolisin, and other members of the family of serine-carboxyl peptidases, the enzymatic mechanism of all these enzymes is most likely the same.
+kumamolisin : Analysis of the model of CLN2 suggests that the size of the S1 subsite is much larger than in either sedolisin or kumamolisin, and thus the use of a large P1 group might be indicated.
+the : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+kumamolisin : The actual Protein Data Bank [24]: ) entries used in the modeling were 1GA4.pdb and 1GT9.pdb for sedolisin and kumamolisin, respectively.
+kumamolisin : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+kumamolisin : As is expected for a family of proteins, highly-conserved segments were found aligned to the crystal structure-identified core regions of the sedolisin and kumamolisin sequences.
+kumamolisin : Subsequently, the sequences were divided into two groups: those closer to sedolisin than kumamolisin and vise-a-versa.
+the : The alignment of these two groups was then manually set by the observed structural alignment of the sedolisin and kumamolisin proteins.
+node_103
+Ser, Glu, Asp : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+Ser, Glu, Asp : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+a fully conserved catalytic triad : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+node_105
+the oxyanion hole : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+the oxyanion hole : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+the oxyanion hole : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+node_107
+oxyanion : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+oxyanion : These structures defined a novel family of enzymes, now called sedolisins or serine-carboxyl peptidases, that is characterized by the utilization of a fully conserved catalytic triad (Ser, Glu, Asp) and by the presence of an Asp in the oxyanion hole [8].
+oxyanion : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+node_115
+CLN2 and related enzymes : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+CLN2 and related enzymes : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+their : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+node_119
+their genomic distribution : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+their genomic distribution : Despite the potential medical importance of CLN2 and related enzymes, no systematic studies of their genomic distribution have been published to date.
+the genomic distribution of this family of enzymes : Authors' contributions  AW initiated this project and analyzed the genomic distribution of this family of enzymes.
+node_124
+an enzyme : In the absence of an experimental structure obtained by crystallography or NMR it is sometimes necessary to resort to molecular modeling in order to provide a structural basis for the explanation of the biological properties of an enzyme, and, in particular, to initiate design of its inhibitors.
+an enzyme : In the absence of an experimental structure obtained by crystallography or NMR it is sometimes necessary to resort to molecular modeling in order to provide a structural basis for the explanation of the biological properties of an enzyme, and, in particular, to initiate design of its inhibitors.
+its : In the absence of an experimental structure obtained by crystallography or NMR it is sometimes necessary to resort to molecular modeling in order to provide a structural basis for the explanation of the biological properties of an enzyme, and, in particular, to initiate design of its inhibitors.
+node_132
+the CLN2-like enzymes : Results and discussion  Sequence comparisons of the CLN2-like enzymes  
+the CLN2-like enzymes : Results and discussion  Sequence comparisons of the CLN2-like enzymes  
+CLN2-like enzymes : In addition to the mammals, CLN2-like enzymes are also found in fugu (puffer fish – unannotated record SINFRUP00000077297 in the NCBI fugu sequence database, ) and zebrafish (contig wz4596.2 in the zebrafish EST database, ).
+node_134
+Mammalian enzymes homologous to human CLN2 : Mammalian enzymes homologous to human CLN2 [2,4] form a subfamily of sedolisins with highly conserved sequences (Figure 1).
+Mammalian enzymes homologous to human CLN2 : Mammalian enzymes homologous to human CLN2 [2,4] form a subfamily of sedolisins with highly conserved sequences (Figure 1).
+These enzymes : These enzymes are expressed with a prosegment consisting of 195 residues that is cleaved off during maturation, yielding the active catalytic domain.
+The full-length enzymes : The full-length enzymes consist of 563 amino acids arranged in a single polypeptide chain containing both the prosegment and the catalytic domain, with the exception of mouse CLN2 that has a single deletion in the prosegment.
+these enzymes : The overall sequence identity for these enzymes is 81%, whereas the similarity is 92%.
+mammalian CLN2 : Thus, mammalian CLN2 appears to be a highly conserved enzyme.
+mammalian CLN2-like enzymes : Figure 1  Sequence comparisons of mammalian CLN2-like enzymes.
+the complete enzymes : These sequences correspond to the complete enzymes, including the prosegment.
+the enzyme : Residues forming the active site are shown in yellow on red background, other conserved residues identified as important for the stability of the enzyme are marked with yellow background, residues identical in at least 5 of the structures are green, and residues similar in their character are shown in magenta.
+the mammalian : The only major difference in the translated amino acid sequence compared to the mammalian and zebrafish enzymes is in the amino terminus of the propeptide region that is shorter by 30 amino acids (not shown).
+node_137
+Figure 1 : Mammalian enzymes homologous to human CLN2 [2,4] form a subfamily of sedolisins with highly conserved sequences (Figure 1).
+Figure 1 : Mammalian enzymes homologous to human CLN2 [2,4] form a subfamily of sedolisins with highly conserved sequences (Figure 1).
+Figure 1 : Figure 1  Sequence comparisons of mammalian CLN2-like enzymes.
+Figure 1 : Active site residues are marked as in Figure 1.
+Figure 1 : The first such model assumed that this enzyme is membrane-bound, with the sequence 271–294 (numbering corresponding to the mature enzyme, Figure 1) forming the putative transmembrane anchor [15].
+Figures 1 : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+node_140
+a prosegment consisting of 195 residues that is cleaved off during maturation : These enzymes are expressed with a prosegment consisting of 195 residues that is cleaved off during maturation, yielding the active catalytic domain.
+a prosegment consisting of 195 residues that is cleaved off during maturation : These enzymes are expressed with a prosegment consisting of 195 residues that is cleaved off during maturation, yielding the active catalytic domain.
+the prosegment : The full-length enzymes consist of 563 amino acids arranged in a single polypeptide chain containing both the prosegment and the catalytic domain, with the exception of mouse CLN2 that has a single deletion in the prosegment.
+the prosegment : The full-length enzymes consist of 563 amino acids arranged in a single polypeptide chain containing both the prosegment and the catalytic domain, with the exception of mouse CLN2 that has a single deletion in the prosegment.
+the prosegment : These sequences correspond to the complete enzymes, including the prosegment.
+node_151
+the catalytic domain : The full-length enzymes consist of 563 amino acids arranged in a single polypeptide chain containing both the prosegment and the catalytic domain, with the exception of mouse CLN2 that has a single deletion in the prosegment.
+the catalytic domain : The full-length enzymes consist of 563 amino acids arranged in a single polypeptide chain containing both the prosegment and the catalytic domain, with the exception of mouse CLN2 that has a single deletion in the prosegment.
+the catalytic domain : A partial sequence of its sedolisin-TPP (AL594774) found in the EST database  spans the middle part of the catalytic domain, without reaching the part of the active site closer to the N terminus that contains the aspartic and glutamic acids that belong to the catalytic triad.
+node_165
+Residues forming the active site : Residues forming the active site are shown in yellow on red background, other conserved residues identified as important for the stability of the enzyme are marked with yellow background, residues identical in at least 5 of the structures are green, and residues similar in their character are shown in magenta.
+Residues forming the active site : Residues forming the active site are shown in yellow on red background, other conserved residues identified as important for the stability of the enzyme are marked with yellow background, residues identical in at least 5 of the structures are green, and residues similar in their character are shown in magenta.
+Active site residues : Active site residues are marked as in Figure 1.
+node_168
+residues : Residues forming the active site are shown in yellow on red background, other conserved residues identified as important for the stability of the enzyme are marked with yellow background, residues identical in at least 5 of the structures are green, and residues similar in their character are shown in magenta.
+residues : Residues forming the active site are shown in yellow on red background, other conserved residues identified as important for the stability of the enzyme are marked with yellow background, residues identical in at least 5 of the structures are green, and residues similar in their character are shown in magenta.
+their : Residues forming the active site are shown in yellow on red background, other conserved residues identified as important for the stability of the enzyme are marked with yellow background, residues identical in at least 5 of the structures are green, and residues similar in their character are shown in magenta.
+node_175
+the sequence of the latter enzyme : Only a fragment of the sequence of the latter enzyme agreed with the former.
+the sequence of the latter enzyme : Only a fragment of the sequence of the latter enzyme agreed with the former.
+the zebrafish sequence : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+node_177
+the sequence of : Only a fragment of the sequence of the latter enzyme agreed with the former.
+the sequence of : Only a fragment of the sequence of the latter enzyme agreed with the former.
+that of the fugu CLN2 : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+the sequence of the fugu enzyme : putative sequence shows the manual corrections that bring it into alignment with the sequence of the fugu enzyme.
+node_179
+the latter enzyme : Only a fragment of the sequence of the latter enzyme agreed with the former.
+the latter enzyme : Only a fragment of the sequence of the latter enzyme agreed with the former.
+the zebrafish CLN2 : Figure 2  Corrected gene sequence of the zebrafish CLN2.This
+the : The only major difference in the translated amino acid sequence compared to the mammalian and zebrafish enzymes is in the amino terminus of the propeptide region that is shorter by 30 amino acids (not shown).
+CLN2 from : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+node_181
+enzyme : Only a fragment of the sequence of the latter enzyme agreed with the former.
+enzyme : Only a fragment of the sequence of the latter enzyme agreed with the former.
+the fugu CLN2 : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+CLN2 from : Complete sequences are shown for CLN2 from human, fugu, and zebrafish, together with the partial sequence of putative CLN2 in Xenopus tropicalis.
+the fugu sedolisin-TPP : However, the sequenced part of the enzyme shows 75% identity with the fugu sedolisin-TPP, and 69% identity with human CLN2 (Figure 3).
+node_183
+a few comparatively minor modifications : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+a few comparatively minor modifications : However, a few comparatively minor modifications can bring the zebrafish sequence into good agreement with that of the fugu CLN2.
+These modifications : These modifications include a deletion of a single nucleotide from a run of three, as well as three insertions of repeated nucleotide pairs (Figure 2).
+these modifications : It must be stressed that these modifications are speculative and may lead to prediction of several incorrect amino acids; however, they bring the two sequences into good global agreement (69% identities and 83% similarities).
+they : It must be stressed that these modifications are speculative and may lead to prediction of several incorrect amino acids; however, they bring the two sequences into good global agreement (69% identities and 83% similarities).
+node_191
+Figure 2 : These modifications include a deletion of a single nucleotide from a run of three, as well as three insertions of repeated nucleotide pairs (Figure 2).
+Figure 2 : These modifications include a deletion of a single nucleotide from a run of three, as well as three insertions of repeated nucleotide pairs (Figure 2).
+Figure 2 : Figure 2  Corrected gene sequence of the zebrafish CLN2.This
+Figure 2 : The colors scheme is the same as in Figure 2.
+node_197
+Corrected gene sequence of the zebrafish CLN2 : Figure 2  Corrected gene sequence of the zebrafish CLN2.This
+Corrected gene sequence of the zebrafish CLN2 : Figure 2  Corrected gene sequence of the zebrafish CLN2.This
+This putative sequence : putative sequence shows the manual corrections that bring it into alignment with the sequence of the fugu enzyme.
+it : putative sequence shows the manual corrections that bring it into alignment with the sequence of the fugu enzyme.
+node_206
+Figure 3 : The available amino acid sequence of the fugu CLN2 analog, named by us sedolisin-TPP [8], is also in good agreement with the sequences of the mammalian orthologs (Figure 3).
+Figure 3 : The available amino acid sequence of the fugu CLN2 analog, named by us sedolisin-TPP [8], is also in good agreement with the sequences of the mammalian orthologs (Figure 3).
+Figure 3 : Figure 3  Sequences of the catalytic domains of CLN2.
+Figure 3 : However, the sequenced part of the enzyme shows 75% identity with the fugu sedolisin-TPP, and 69% identity with human CLN2 (Figure 3).
+Figures : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+node_226
+amphibians :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+amphibians :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+frogs : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+frogs : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+node_228
+Xenopus tropicalis :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+Xenopus tropicalis :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+a species of frog :  CLN2 is present not only in fish, but also in amphibians, in particular in Xenopus tropicalis (a species of frog).
+node_232
+its sedolisin-TPP : A partial sequence of its sedolisin-TPP (AL594774) found in the EST database  spans the middle part of the catalytic domain, without reaching the part of the active site closer to the N terminus that contains the aspartic and glutamic acids that belong to the catalytic triad.
+its sedolisin-TPP : A partial sequence of its sedolisin-TPP (AL594774) found in the EST database  spans the middle part of the catalytic domain, without reaching the part of the active site closer to the N terminus that contains the aspartic and glutamic acids that belong to the catalytic triad.
+the enzyme : However, the sequenced part of the enzyme shows 75% identity with the fugu sedolisin-TPP, and 69% identity with human CLN2 (Figure 3).
+node_241
+bacterial : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+bacterial : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+bacterial sedolisins : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+node_245
+highly conserved CLN2-like enzymes : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+highly conserved CLN2-like enzymes : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+these peptidases : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+their : Sequence similarity to bacterial or fungal sedolisins is much lower, indicating that the enzyme found in frogs might also share the functional properties of the CLN2 subfamily.  The discovery of highly conserved CLN2-like enzymes not only in mammals but also in two fish species and one of frogs may indicate that these peptidases are universally present in the vertebrates, and that their important role identified in humans [2] and mice [14] might be a more general feature.
+node_252
+the structure of human CLN2 :  Modeling of the structure of human CLN2  The medical importance of CLN2 and the lack of a crystal structure inspired attempts at protein modeling.
+the structure of human CLN2 :  Modeling of the structure of human CLN2  The medical importance of CLN2 and the lack of a crystal structure inspired attempts at protein modeling.
+the structure : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+node_256
+The first such model : The first such model assumed that this enzyme is membrane-bound, with the sequence 271–294 (numbering corresponding to the mature enzyme, Figure 1) forming the putative transmembrane anchor [15].
+The first such model : The first such model assumed that this enzyme is membrane-bound, with the sequence 271–294 (numbering corresponding to the mature enzyme, Figure 1) forming the putative transmembrane anchor [15].
+this model : However, in view of the subsequently obtained structures of the fully water-soluble sedolisins, this model was clearly incorrect.
+node_265
+Figure 4 : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+Figure 4 : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+Figure 4 : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+node_269
+a new, homology-derived model of human CLN2 : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+a new, homology-derived model of human CLN2 : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+the homology model : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+the model : It is thus likely that pseudo-iodotyrostatin or a similar inhibitor might work for CLN2 as well, although the actual contacts between the inhibitor and the enzyme that are seen in the model have to be treated with caution.
+the model of the latter enzyme : Alignment of the sequences of sedolisin, kumamolisin, and human CLN2 used in the construction of the model of the latter enzyme.
+node_271
+homology-derived : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+homology-derived : Exploiting the sequence similarity between CLN2, sedolisin, and kumamolisin (Figure 4), we have now used the experimentally obtained structures of the latter two enzymes to form a new, homology-derived model of human CLN2.
+homology-derived : Figure 5  A homology-derived model of human CLN2.
+node_275
+homology : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+homology : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+Homology : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+homology : With the correspondence of residues specified in the alignments, atomic coordinates were transferred to the target sequence by a variety of methods, including the homology modeling modules of the Look/GeneMine [29] and DeepView [30] computer program packages.
+homology : It should be noted that, for obvious reasons, the conformation of poorly conserved loop regions is generally the least accurate aspect of a homology model.
+node_278
+pseudo-iodotyrostatin : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+pseudo-iodotyrostatin : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+this compound : Although it has not been directly shown that this compound can inhibit human CLN2, other similar peptides with an aldehyde functionality on their "C-termini" are weak, but detectable, inhibitors of this enzyme (Oda, unpublished).
+pseudo-iodotyrostatin : It is thus likely that pseudo-iodotyrostatin or a similar inhibitor might work for CLN2 as well, although the actual contacts between the inhibitor and the enzyme that are seen in the model have to be treated with caution.
+the inhibitor : It is thus likely that pseudo-iodotyrostatin or a similar inhibitor might work for CLN2 as well, although the actual contacts between the inhibitor and the enzyme that are seen in the model have to be treated with caution.
+pseudo-iodotyrostatin : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+this inhibitor : Another reason for the modeling of a pseudo-iodotyrostatin complex is that CLN2 is a tripeptidase, and that this inhibitor it represents the only experimental structure of a tripeptide analog bound to sedolisin.  Figure 4  Sequence alignment of bacterial and mammalian enzymes.
+pseudo-iodotyrostatin : The enzyme is shown in complex with pseudo-iodotyrostatin, a good inhibitor of the sedolisin family of peptidases.
+the inhibitor : The stick model of the inhibitor is colored gold and the P1-P3 residues are labeled in black.
+the inhibitor : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+node_279
+pseudo-iodotyrostatin : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+pseudo-iodotyrostatin : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+the structure of a complex of sedolisin with a covalently-bound inhibitor : The primary basis of the homology model was the structure of a complex of sedolisin with a covalently-bound inhibitor, pseudo-iodotyrostatin.
+node_285
+Oda, unpublished : Although it has not been directly shown that this compound can inhibit human CLN2, other similar peptides with an aldehyde functionality on their "C-termini" are weak, but detectable, inhibitors of this enzyme (Oda, unpublished).
+Oda, unpublished : Although it has not been directly shown that this compound can inhibit human CLN2, other similar peptides with an aldehyde functionality on their "C-termini" are weak, but detectable, inhibitors of this enzyme (Oda, unpublished).
+Oda, unpublished : Since the few inhibitors that have been successfully used in the studies of sedolisins are either longer than tripeptides or contain blocking groups on their N termini, new tripeptide-based inhibitors with free N termini are now being synthesized (Oda, unpublished).
+node_307
+Figure 5 : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+Figure 5 : The r.m.s. deviation between the corresponding Cα coordinates of the model of CLN2 (Figure 5) and the experimental structure of sedolisin is about 1.75 Å, not much larger than the experimental difference between sedolisin and kumamolisin.
+Figure 5 : Figure 5  A homology-derived model of human CLN2.
+node_314
+a disulfide bond : Interestingly, the Cys327 and Cys342 residues in the model were found to be ideally positioned to form a disulfide bond even though this was not part of the design strategy.
+a disulfide bond : Interestingly, the Cys327 and Cys342 residues in the model were found to be ideally positioned to form a disulfide bond even though this was not part of the design strategy.
+this bond : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+this disulfide : Thus, if this disulfide were experimentally found to exist in CLN2 it would provide support for the correctness of the model.
+it : Thus, if this disulfide were experimentally found to exist in CLN2 it would provide support for the correctness of the model.
+node_318
+these two cysteines : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+these two cysteines : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+they : That this bond likely occurs in the real protein is suggested by the fact that these two cysteines are strictly conserved in all known animal species of CLN2 (Figures 1 and 3), although they are absent in all known sequences of bacterial sedolisins.
+node_330
+A homology-derived model of human CLN2 : Figure 5  A homology-derived model of human CLN2.
+A homology-derived model of human CLN2 : Figure 5  A homology-derived model of human CLN2.
+The model of human CLN2 : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+the model : Fortunately, these problematic loops will not significantly affect the active site of the model, since only two of them impinge on the boundary of this highly conserved, functional region.
+node_344
+S1 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+S1 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+S1 : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+S1 : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+S1 : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+S1 : In summary, the S1 pocket in CLN2 has less polar character than the equivalent pocket in the related proteins, and is lacking direct polar anchors for any side chains that might be present in the substrate.
+S1 : Analysis of the model of CLN2 suggests that the size of the S1 subsite is much larger than in either sedolisin or kumamolisin, and thus the use of a large P1 group might be indicated.
+node_346
+S1 through S3 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+S1 through S3 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+these pockets : Residues P1-P3 of the inhibitor that should occupy these pockets are shown in Figure 6.
+node_347
+S1 through S3 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+S1 through S3 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+three substrate-binding pockets : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+node_349
+S3 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+S3 : Comparisons of the substrate binding pockets of CLN2 and sedolisin  Since the principal known activity of CLN2 is that of a tripeptidase, it is expected that three substrate-binding pockets, S1 through S3 (using the nomenclature of Schechter and Berger [16]), should be discernible.
+S3 : An important remaining puzzle is that the predicted structure of CLN2 does not show any clear limitations of the S3 pocket that could explain the tripeptidase activity of this enzyme.
+node_351
+P1-P3 : Residues P1-P3 of the inhibitor that should occupy these pockets are shown in Figure 6.
+P1-P3 : Residues P1-P3 of the inhibitor that should occupy these pockets are shown in Figure 6.
+P1-P3 : The stick model of the inhibitor is colored gold and the P1-P3 residues are labeled in black.
+node_354
+Figure 6 : Residues P1-P3 of the inhibitor that should occupy these pockets are shown in Figure 6.
+Figure 6 : Residues P1-P3 of the inhibitor that should occupy these pockets are shown in Figure 6.
+Figure 6 : The right-hand side of the pocket (in the view used in Figure 6) is made of the main chain including residues 164–165 (unless otherwise indicated, the numbering refers to the sequence of the mature human CLN2).
+Figure 6 : Figure 6  A model of the active site of human CLN2.
+The figure : The figure was prepared using the program DINO .  
+node_358
+inhibitors : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+inhibitors : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+inhibitors : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+node_360
+the S1 pocket : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+the S1 pocket : All the available structures of the complexes of either sedolisin or kumamolisin with inhibitors contain either a tyrosine or a phenylalanine occupying the S1 pocket.
+this pocket : Parts of this pocket are fully conserved among different sedolisins, whereas other parts of it differ.
+it : Parts of this pocket are fully conserved among different sedolisins, whereas other parts of it differ.
+the pocket : The right-hand side of the pocket (in the view used in Figure 6) is made of the main chain including residues 164–165 (unless otherwise indicated, the numbering refers to the sequence of the mature human CLN2).
+the S1 pocket : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+the pocket : No side chains point into the pocket from there, though, so its importance is limited to providing a steric barrier and excluding solvent.
+the pocket : Another wall of the pocket is made up of the main chain of residues 130–132 that flank the conserved Gly131.
+the pocket : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+the S1 pocket : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+the pocket : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+node_367
+the main chain including residues 164–165 : The right-hand side of the pocket (in the view used in Figure 6) is made of the main chain including residues 164–165 (unless otherwise indicated, the numbering refers to the sequence of the mature human CLN2).
+the main chain including residues 164–165 : The right-hand side of the pocket (in the view used in Figure 6) is made of the main chain including residues 164–165 (unless otherwise indicated, the numbering refers to the sequence of the mature human CLN2).
+This part of the main chain : This part of the main chain is held in place through a hydrogen-bonded interaction with the side chain of Thr279, part of the signature sequence SGTSAS surrounding the catalytic Ser280 and its equivalents in the other enzymes.
+node_370
+the catalytic Ser280 : This part of the main chain is held in place through a hydrogen-bonded interaction with the side chain of Thr279, part of the signature sequence SGTSAS surrounding the catalytic Ser280 and its equivalents in the other enzymes.
+the catalytic Ser280 : This part of the main chain is held in place through a hydrogen-bonded interaction with the side chain of Thr279, part of the signature sequence SGTSAS surrounding the catalytic Ser280 and its equivalents in the other enzymes.
+its : This part of the main chain is held in place through a hydrogen-bonded interaction with the side chain of Thr279, part of the signature sequence SGTSAS surrounding the catalytic Ser280 and its equivalents in the other enzymes.
+node_373
+Asp165 : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+Asp165 : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+that residue : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+node_379
+this part of the S1 pocket : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+this part of the S1 pocket : Asp165 itself is also conserved since that residue provides the lining of the oxyanion hole, so it can be safely assumed that this part of the S1 pocket is virtually identical.
+there : No side chains point into the pocket from there, though, so its importance is limited to providing a steric barrier and excluding solvent.
+its : No side chains point into the pocket from there, though, so its importance is limited to providing a steric barrier and excluding solvent.
+node_386
+solvent : No side chains point into the pocket from there, though, so its importance is limited to providing a steric barrier and excluding solvent.
+solvent : No side chains point into the pocket from there, though, so its importance is limited to providing a steric barrier and excluding solvent.
+solvent :  The S2 pocket in CLN2 is also quite open and accessible to solvent.
+node_389
+the main chain of residues 130–132 that flank the conserved Gly131 : Another wall of the pocket is made up of the main chain of residues 130–132 that flank the conserved Gly131.
+the main chain of residues 130–132 that flank the conserved Gly131 : Another wall of the pocket is made up of the main chain of residues 130–132 that flank the conserved Gly131.
+this part of the chain : Again, this part of the chain does not provide any specific interactions with the P1 residue of the substrate.
+node_392
+P1 : Again, this part of the chain does not provide any specific interactions with the P1 residue of the substrate.
+P1 : Again, this part of the chain does not provide any specific interactions with the P1 residue of the substrate.
+P1 : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+P1 : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+P1 : Analysis of the model of CLN2 suggests that the size of the S1 subsite is much larger than in either sedolisin or kumamolisin, and thus the use of a large P1 group might be indicated.
+node_394
+the substrate : Again, this part of the chain does not provide any specific interactions with the P1 residue of the substrate.
+the substrate : Again, this part of the chain does not provide any specific interactions with the P1 residue of the substrate.
+the substrate : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+the substrate : In summary, the S1 pocket in CLN2 has less polar character than the equivalent pocket in the related proteins, and is lacking direct polar anchors for any side chains that might be present in the substrate.
+the substrate : Tyr130, an equivalent of the latter residue in CLN2, is unlikely to come into direct contact with the P2 residue of the substrate due to its greater distance (almost 4 Å for the closest atoms).  
+the substrate : The location of the P3 side chain of the substrate is ambiguous, since it could point in either one of two directions by exchange with the N-terminal amine.
+the substrate : No other residues appear to be located in the immediate vicinity of the substrate.
+the substrate : The model of CLN2 presented here can easily accommodate this peptide on the P side of the substrate-binding site, although the exact mode of binding of the long P' portion of the substrate remains obscure.
+node_399
+pseudo-iodotyrostatin : The enzyme is shown in complex with pseudo-iodotyrostatin, a good inhibitor of the sedolisin family of peptidases.
+pseudo-iodotyrostatin : The enzyme is shown in complex with pseudo-iodotyrostatin, a good inhibitor of the sedolisin family of peptidases.
+a good inhibitor of the sedolisin family of peptidases : The enzyme is shown in complex with pseudo-iodotyrostatin, a good inhibitor of the sedolisin family of peptidases.
+node_413
+hydrogen : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+hydrogen : Considerable differences are seen, however, at the bottom of the pocket, where the side chains of Asp179 in kumamolisin and the equivalent Ser190 in sedolisin make hydrogen bonds to the P1 tyrosine of the inhibitor (if present).
+hydrogen : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+hydrogen : Such a conformational change would involve breaking of the hydrogen bond between Asp132 and Ser139.
+hydrogen : Such optimizations included adjusting bond lengths, 3-point angles and 4-point dihedral angles, as well as eliminating atomic overlap and forming salt-bridges and hydrogen bonds.
+node_417
+The equivalent residue in CLN2 : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+The equivalent residue in CLN2 : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+it : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+it : The equivalent residue in CLN2 is Thr182, but it is very unlikely that it can assume an orientation that would allow it to make a hydrogen bond to a P1 tyrosine.
+node_425
+Glu175 in sedolisin : Other polar residues in the vicinity are Glu175 in sedolisin and the corresponding Asp169 in kumamolisin.
+Glu175 in sedolisin : Other polar residues in the vicinity are Glu175 in sedolisin and the corresponding Asp169 in kumamolisin.
+Glu175 : There is also no equivalent to the polar interaction between Glu175 and Glu171 in sedolisin, since the equivalent of the latter residue in CLN2 is Ser166, much smaller and pointing away.
+node_429
+the residue found here in CLN2 : However, the residue found here in CLN2 is Cys170, much less polar than its counterparts.
+the residue found here in CLN2 : However, the residue found here in CLN2 is Cys170, much less polar than its counterparts.
+its : However, the residue found here in CLN2 is Cys170, much less polar than its counterparts.
+node_436
+The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin : The side of the S1 pocket that is created by the very flexible side chain of Arg179 in sedolisin contains only a much smaller Ser174 in CLN2, and thus is much more open in the latter protein.
+This part of the pocket : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+it : This part of the pocket, with the main chain of the protein quite distant from the substrate, is indeed not well conserved in these proteins, with kumamolisin missing it entirely due to a deletion in the corresponding sequence position.
+node_457
+the equivalent pockets in : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+the equivalent pockets in : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+the former : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+node_459
+the equivalent pockets in : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+the equivalent pockets in : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+the latter : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+node_460
+the equivalent pockets in either sedolisin or kumamolisin : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+the equivalent pockets in either sedolisin or kumamolisin : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+these : It is most likely larger than the equivalent pockets in either sedolisin or kumamolisin, since these are limited by Trp81 in the former and Trp129 in the latter (these residues originate from different parts of the backbone in the two enzymes and are not topologically related).
+node_468
+Tyr130 : Tyr130, an equivalent of the latter residue in CLN2, is unlikely to come into direct contact with the P2 residue of the substrate due to its greater distance (almost 4 Å for the closest atoms).  
+Tyr130 : Tyr130, an equivalent of the latter residue in CLN2, is unlikely to come into direct contact with the P2 residue of the substrate due to its greater distance (almost 4 Å for the closest atoms).  
+its : Tyr130, an equivalent of the latter residue in CLN2, is unlikely to come into direct contact with the P2 residue of the substrate due to its greater distance (almost 4 Å for the closest atoms).  
+node_476
+The location of the P3 side chain of the substrate : The location of the P3 side chain of the substrate is ambiguous, since it could point in either one of two directions by exchange with the N-terminal amine.
+The location of the P3 side chain of the substrate : The location of the P3 side chain of the substrate is ambiguous, since it could point in either one of two directions by exchange with the N-terminal amine.
+it : The location of the P3 side chain of the substrate is ambiguous, since it could point in either one of two directions by exchange with the N-terminal amine.
+node_480
+The only negatively charged residue of CLN2 that is found in this vicinity : The only negatively charged residue of CLN2 that is found in this vicinity is Asp132.
+The only negatively charged residue of CLN2 that is found in this vicinity : The only negatively charged residue of CLN2 that is found in this vicinity is Asp132.
+its : Although in the current model the distance between its carboxylate and the nitrogen of the N-terminus of the modeled substrate is about 6 Å, these two groups could be brought into hydrogen-bonding range by some allowed changes in the torsion angles of the protein.
+Asp132 : Such a conformational change would involve breaking of the hydrogen bond between Asp132 and Ser139.
+Asp132 : The observation that an analogous peptide acetylated on its N terminus cannot be processed supports the postulate that the interactions of the N-terminal amino group with the side chain of Asp132 may be the most important feature defining the tripeptidase specificity of CLN2.
+node_485
+the hydrogen bond between Asp132 and Ser139 : Such a conformational change would involve breaking of the hydrogen bond between Asp132 and Ser139.
+the hydrogen bond between Asp132 and Ser139 : Such a conformational change would involve breaking of the hydrogen bond between Asp132 and Ser139.
+this latter interaction : However, this latter interaction is not likely to be structurally crucial since the serine is not absolutely conserved in all CLN2-like enzymes.
+node_490
+mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients :  Location of mutations implicated in disease  Location of mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients has been described previously [17].
+mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients :  Location of mutations implicated in disease  Location of mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients has been described previously [17].
+such mutations : Most such mutations result in expression of either truncated enzyme or in incorrect intron-exon splices.
+the mutations : However, some of the mutations lead to single amino acid substitutions in the mature enzyme.
+node_493
+classic late-infantile neuronal ceroid lipofuscinosis patients :  Location of mutations implicated in disease  Location of mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients has been described previously [17].
+classic late-infantile neuronal ceroid lipofuscinosis patients :  Location of mutations implicated in disease  Location of mutations found through a genetic survey of families of classic late-infantile neuronal ceroid lipofuscinosis patients has been described previously [17].
+patients that display symptoms of late-infantile neuronal ceroid lipofuscinosis : Various defects that include truncations and single-site mutations in CLN2 have been found in the genes of patients that display symptoms of late-infantile neuronal ceroid lipofuscinosis [17].
+node_496
+some of the mutations : However, some of the mutations lead to single amino acid substitutions in the mature enzyme.
+some of the mutations : However, some of the mutations lead to single amino acid substitutions in the mature enzyme.
+Such mutations : Such mutations include I92N, E148K, C170R and C170Y, V190D, G194E, Q227H, R252H, A259E, and S280L (Figure 5).
+node_500
+S280L : Such mutations include I92N, E148K, C170R and C170Y, V190D, G194E, Q227H, R252H, A259E, and S280L (Figure 5).
+S280L : Such mutations include I92N, E148K, C170R and C170Y, V190D, G194E, Q227H, R252H, A259E, and S280L (Figure 5).
+the latter mutation : Only the role of the latter mutation is completely clear, since it replaces the catalytic serine of CLN2 with a side chain that cannot support its enzymatic activity.
+it : Only the role of the latter mutation is completely clear, since it replaces the catalytic serine of CLN2 with a side chain that cannot support its enzymatic activity.
+its : Only the role of the latter mutation is completely clear, since it replaces the catalytic serine of CLN2 with a side chain that cannot support its enzymatic activity.
+node_508
+the remaining mutations : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+the remaining mutations : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+these mutations : The reasons why the remaining mutations would lead to the loss of enzymatic activity are much less clear, but the wide distribution of these mutations in the structure supports the conclusion that any modifications to CLN2 that would abolish or impair its function could lead to the development of the disease.  Substrates and inhibitors of CLN2  Little is known at this time about biologically-relevant substrates of CLN2.
+node_522
+ceroid-lipofuscin : One of the symptoms of the disease is the accumulation of an autofluorescent material, ceroid-lipofuscin, in lysosomal storage bodies in various cell types, primarily in the nervous system.
+ceroid-lipofuscin : One of the symptoms of the disease is the accumulation of an autofluorescent material, ceroid-lipofuscin, in lysosomal storage bodies in various cell types, primarily in the nervous system.
+an autofluorescent material : One of the symptoms of the disease is the accumulation of an autofluorescent material, ceroid-lipofuscin, in lysosomal storage bodies in various cell types, primarily in the nervous system.
+node_524
+lysosomal storage bodies in various cell types : One of the symptoms of the disease is the accumulation of an autofluorescent material, ceroid-lipofuscin, in lysosomal storage bodies in various cell types, primarily in the nervous system.
+lysosomal storage bodies in various cell types : One of the symptoms of the disease is the accumulation of an autofluorescent material, ceroid-lipofuscin, in lysosomal storage bodies in various cell types, primarily in the nervous system.
+such bodies : Since a major component of such bodies appears to be intact subunit c of mitochondrial ATP synthase, this protein has been implicated as a potential biological target of the protease.
+node_526
+a major component of such bodies : Since a major component of such bodies appears to be intact subunit c of mitochondrial ATP synthase, this protein has been implicated as a potential biological target of the protease.
+a major component of such bodies : Since a major component of such bodies appears to be intact subunit c of mitochondrial ATP synthase, this protein has been implicated as a potential biological target of the protease.
+this protein : Since a major component of such bodies appears to be intact subunit c of mitochondrial ATP synthase, this protein has been implicated as a potential biological target of the protease.
+this subunit : It has been shown recently that CLN2 can indeed degrade this subunit on its N terminus [18], but the unambiguous proof that this is indeed the most important target is still lacking.
+its : It has been shown recently that CLN2 can indeed degrade this subunit on its N terminus [18], but the unambiguous proof that this is indeed the most important target is still lacking.
+this : It has been shown recently that CLN2 can indeed degrade this subunit on its N terminus [18], but the unambiguous proof that this is indeed the most important target is still lacking.
+node_536
+different angiotensin-derived peptides : CLN2 is capable of processing a number of different angiotensin-derived peptides [19], with the efficiency of cleavage dependent on the length of such peptides.
+different angiotensin-derived peptides : CLN2 is capable of processing a number of different angiotensin-derived peptides [19], with the efficiency of cleavage dependent on the length of such peptides.
+such peptides : CLN2 is capable of processing a number of different angiotensin-derived peptides [19], with the efficiency of cleavage dependent on the length of such peptides.
+node_539
+The most efficiently processed peptide : The most efficiently processed peptide consisted of 14 amino acids, with the tripeptide Asp-Arg-Val removed from its N terminus.
+The most efficiently processed peptide : The most efficiently processed peptide consisted of 14 amino acids, with the tripeptide Asp-Arg-Val removed from its N terminus.
+its : The most efficiently processed peptide consisted of 14 amino acids, with the tripeptide Asp-Arg-Val removed from its N terminus.
+this peptide : The model of CLN2 presented here can easily accommodate this peptide on the P side of the substrate-binding site, although the exact mode of binding of the long P' portion of the substrate remains obscure.
+node_545
+the substrate-binding site : The model of CLN2 presented here can easily accommodate this peptide on the P side of the substrate-binding site, although the exact mode of binding of the long P' portion of the substrate remains obscure.
+the substrate-binding site : The model of CLN2 presented here can easily accommodate this peptide on the P side of the substrate-binding site, although the exact mode of binding of the long P' portion of the substrate remains obscure.
+the substrate-binding site of the CLN2 model : Again, however, all of these tripeptides can be easily accommodated in the substrate-binding site of the CLN2 model.
+the substrate-binding site of CLN2 : With the substrate-binding site of CLN2 resembling that of kumamolisin more than sedolisin (the latter enzyme has low, if any, collagenase activity), the potential collagen-processing role of CLN2 might warrant further investigation.
+node_548
+an analogous peptide acetylated on its N terminus : The observation that an analogous peptide acetylated on its N terminus cannot be processed supports the postulate that the interactions of the N-terminal amino group with the side chain of Asp132 may be the most important feature defining the tripeptidase specificity of CLN2.
+an analogous peptide acetylated on its N terminus : The observation that an analogous peptide acetylated on its N terminus cannot be processed supports the postulate that the interactions of the N-terminal amino group with the side chain of Asp132 may be the most important feature defining the tripeptidase specificity of CLN2.
+its : The observation that an analogous peptide acetylated on its N terminus cannot be processed supports the postulate that the interactions of the N-terminal amino group with the side chain of Asp132 may be the most important feature defining the tripeptidase specificity of CLN2.
+node_553
+A number of different tripeptides : A number of different tripeptides can be serially processed from glucagon, with their sequences varying widely [20].
+A number of different tripeptides : A number of different tripeptides can be serially processed from glucagon, with their sequences varying widely [20].
+their : A number of different tripeptides can be serially processed from glucagon, with their sequences varying widely [20].
+these tripeptides : Again, however, all of these tripeptides can be easily accommodated in the substrate-binding site of the CLN2 model.
+node_560
+collagen-related peptides : Other potentially biologically relevant substrates include cholecystokinin and possibly other neuropeptides [21].  An intriguing property of CLN2 is its reported ability to cleave collagen-related peptides [22].
+collagen-related peptides : Other potentially biologically relevant substrates include cholecystokinin and possibly other neuropeptides [21].  An intriguing property of CLN2 is its reported ability to cleave collagen-related peptides [22].
+collagen-related peptides : It has been recently reported that kumamolisin, and particularly a closely related protein from Alicyclobacillus sendaiensis (kumamolisin-As) can efficiently cleave not only collagen-related peptides, but also native type I collagen [23].
+node_565
+kumamolisin-As : It has been recently reported that kumamolisin, and particularly a closely related protein from Alicyclobacillus sendaiensis (kumamolisin-As) can efficiently cleave not only collagen-related peptides, but also native type I collagen [23].
+kumamolisin-As : It has been recently reported that kumamolisin, and particularly a closely related protein from Alicyclobacillus sendaiensis (kumamolisin-As) can efficiently cleave not only collagen-related peptides, but also native type I collagen [23].
+a closely related protein from Alicyclobacillus sendaiensis : It has been recently reported that kumamolisin, and particularly a closely related protein from Alicyclobacillus sendaiensis (kumamolisin-As) can efficiently cleave not only collagen-related peptides, but also native type I collagen [23].
+node_580
+making covalent interactions with the catalytic serine : Design of inhibitors specific for CLN2 should incorporate the features that have been proven to be important for the related enzymes, such as the placement of an aldehyde functionality capable of making covalent interactions with the catalytic serine, or the utilization of chloromethyl ketone for the same purpose.
+making covalent interactions with the catalytic serine : Design of inhibitors specific for CLN2 should incorporate the features that have been proven to be important for the related enzymes, such as the placement of an aldehyde functionality capable of making covalent interactions with the catalytic serine, or the utilization of chloromethyl ketone for the same purpose.
+the same purpose : Design of inhibitors specific for CLN2 should incorporate the features that have been proven to be important for the related enzymes, such as the placement of an aldehyde functionality capable of making covalent interactions with the catalytic serine, or the utilization of chloromethyl ketone for the same purpose.
+node_583
+the few inhibitors that have been successfully used in the studies of sedolisins : Since the few inhibitors that have been successfully used in the studies of sedolisins are either longer than tripeptides or contain blocking groups on their N termini, new tripeptide-based inhibitors with free N termini are now being synthesized (Oda, unpublished).
+the few inhibitors that have been successfully used in the studies of sedolisins : Since the few inhibitors that have been successfully used in the studies of sedolisins are either longer than tripeptides or contain blocking groups on their N termini, new tripeptide-based inhibitors with free N termini are now being synthesized (Oda, unpublished).
+their : Since the few inhibitors that have been successfully used in the studies of sedolisins are either longer than tripeptides or contain blocking groups on their N termini, new tripeptide-based inhibitors with free N termini are now being synthesized (Oda, unpublished).
+node_599
+Three-dimensional, atomic-scale models of CLN2 : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+Three-dimensional, atomic-scale models of CLN2 : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+the models : A similar two-step approach was used to manifest the insertions and deletions in the variable, loop regions of the protein, where it was necessary to create new backbone as well as side chain coordinates for the models.
+node_601
+atomic-scale : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+atomic-scale : Of course, the availability of an experimental crystal structure will make the design of inhibitors easier and we are continuing our efforts to crystallize CLN2 from different sources.  Methods  Homology modeling  Three-dimensional, atomic-scale models of CLN2 were developed by exploiting the sequence similarity to the sedolisin and kumamolisin proteins (r.m.s. deviation of 1.0 Å for 273 pairs of Cα atoms in the core of the enzymes).
+atomic-scale : Since presently the potential energy functions used to describe the atomic-scale models are not sufficiently comprehensive and accurate, the final energy of the model was not used as an indicator of the realistic quality of the structure.
+node_617
+Sequence files representing the different subfamilies : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+Sequence files representing the different subfamilies : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+the sequences : Subsequently, the sequences were divided into two groups: those closer to sedolisin than kumamolisin and vise-a-versa.
+node_620
+sedolisin : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+sedolisin : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+the sedolisin : As is expected for a family of proteins, highly-conserved segments were found aligned to the crystal structure-identified core regions of the sedolisin and kumamolisin sequences.
+node_623
+kumamolisin : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+kumamolisin : Sequence files representing the different subfamilies were extracted from the non-redundant GenBank database [26] using sedolisin, kumamolisin, and the human CLN2 sequences as queries to the web-based version of the BLAST program [27]: .
+the : As is expected for a family of proteins, highly-conserved segments were found aligned to the crystal structure-identified core regions of the sedolisin and kumamolisin sequences.
+node_633
+those closer to sedolisin than kumamolisin and vise-a-versa : Subsequently, the sequences were divided into two groups: those closer to sedolisin than kumamolisin and vise-a-versa.
+those closer to sedolisin than kumamolisin and vise-a-versa : Subsequently, the sequences were divided into two groups: those closer to sedolisin than kumamolisin and vise-a-versa.
+these two groups : The alignment of these two groups was then manually set by the observed structural alignment of the sedolisin and kumamolisin proteins.
+node_643
+the inhibitor pseudo-tyrostatin : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+the inhibitor pseudo-tyrostatin : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+the chosen inhibitor : The reason for this choice is that while different protein models were generally comparable, the chosen inhibitor was most compatible with the tripeptidase character of CLN2.
+node_645
+a template : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+a template : The model of human CLN2 was built using the structure of sedolisin complexed with the inhibitor pseudo-tyrostatin [5,6] as a template.
+the template : For the core and active site of the protein, coordinates for identical residues were simply transferred unchanged; whereas, special care was required to position the side chains of residues differing from the template.
+the templates : This was first accomplished automatically by the two computer packages, then manually adjusted in the Quanta molecular modeling package (Accelrys, Inc.) to better mimic the templates and optimize the interactions with surrounding residues.
+node_650
+the Look/GeneMine [29] and DeepView [30] computer program packages : With the correspondence of residues specified in the alignments, atomic coordinates were transferred to the target sequence by a variety of methods, including the homology modeling modules of the Look/GeneMine [29] and DeepView [30] computer program packages.
+the Look/GeneMine [29] and DeepView [30] computer program packages : With the correspondence of residues specified in the alignments, atomic coordinates were transferred to the target sequence by a variety of methods, including the homology modeling modules of the Look/GeneMine [29] and DeepView [30] computer program packages.
+the two computer packages : This was first accomplished automatically by the two computer packages, then manually adjusted in the Quanta molecular modeling package (Accelrys, Inc.) to better mimic the templates and optimize the interactions with surrounding residues.
+node_660
+poorly conserved loop regions : It should be noted that, for obvious reasons, the conformation of poorly conserved loop regions is generally the least accurate aspect of a homology model.
+poorly conserved loop regions : It should be noted that, for obvious reasons, the conformation of poorly conserved loop regions is generally the least accurate aspect of a homology model.
+these problematic loops : Fortunately, these problematic loops will not significantly affect the active site of the model, since only two of them impinge on the boundary of this highly conserved, functional region.
+node_667
+the structure : This refined the structure by bringing the covalent geometry and non-bonded interactions into agreement with experimentally observed and calculated values.
+the structure : This refined the structure by bringing the covalent geometry and non-bonded interactions into agreement with experimentally observed and calculated values.
+the structure : Since presently the potential energy functions used to describe the atomic-scale models are not sufficiently comprehensive and accurate, the final energy of the model was not used as an indicator of the realistic quality of the structure.
+the structure : The final quality of the structure was analyzed with the computer program PROCHECK [32].
+The structure : The structure was deposited at the PDB under accession code 1R60.
+the three-dimensional structure of CLN2 : SRD contributed the modeling of the three-dimensional structure of CLN2.
+node_682
+HO, KO and BMD : HO, KO and BMD contributed their experience gained from studies of serine-carboxyl peptidases and the design of their inhibitors, aimed at analysis of substrate-enzyme interactions and enzyme specificity.
+HO, KO and BMD : HO, KO and BMD contributed their experience gained from studies of serine-carboxyl peptidases and the design of their inhibitors, aimed at analysis of substrate-enzyme interactions and enzyme specificity.
+their : HO, KO and BMD contributed their experience gained from studies of serine-carboxyl peptidases and the design of their inhibitors, aimed at analysis of substrate-enzyme interactions and enzyme specificity.
